@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/JLDreal/count.svg?"  />
-</div>
 
 ###
 
